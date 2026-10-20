@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.svg" alt="Header Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/lafro6978/lafro6978/main/header.svg?v=2" alt="Header Banner" width="100%" />
 </div>
 
 <div align="center">
