@@ -1,16 +1,169 @@
-## Hi there 👋
+### *Bonjour,*
+# Hey there 👋
 
-<!--
-**lafro6978/lafro6978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer — .NET / C#, Python & Database Architecture**
 
-Here are some ideas to get you started:
+Building desktop systems in C# 12 / .NET 8, training neuroevolution & computer vision models in Python, and designing normalized 3NF relational databases. From low-level WinAPI & Lua automation to clean MVVM interfaces and zero-configuration data layers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Off hours:** neuroevolution, custom ImGui interfaces, and AI-assisted engineering.
+
+<p align="left">
+  <a href="#-work"><img src="https://img.shields.io/badge/Showcase-Featured_Work-21262d?style=flat-square&logo=github&logoColor=white" alt="Work" /></a>
+  <a href="#-stack"><img src="https://img.shields.io/badge/Tech-Stack_%26_Patterns-21262d?style=flat-square&logo=serverless&logoColor=white" alt="Stack" /></a>
+  <a href="https://github.com/lafro6978?tab=repositories"><img src="https://img.shields.io/badge/Explore-All_Repositories-21262d?style=flat-square&logo=git&logoColor=white" alt="Repositories" /></a>
+</p>
+
+<br/>
+
+## 💼 Work
+
+<table>
+  <tr>
+    <td width="58%" valign="middle">
+      <a href="https://github.com/lafro6978/DnsEquipmentLedger">
+        <img src="https://i.imgur.com/EC24vaG.png" alt="DnsEquipmentLedger Main Window" width="100%" />
+      </a>
+    </td>
+    <td width="42%" valign="middle">
+      <h3>DnsEquipmentLedger</h3>
+      <sub><b>2026 — present</b></sub>
+      <br/><br/>
+      C# 12 & .NET 8 corporate equipment and warehouse tracking module. Built on a strict zero-code-behind WPF MVVM architecture with GoF & Enterprise patterns (<code>Repository</code>, <code>Command</code>, <code>Observer</code>), 3NF SQLite database design, and zero-config Entity Framework Core auto-migrations + data seeding on startup.
+      <br/><br/>
+      <a href="https://github.com/lafro6978/DnsEquipmentLedger">github.com/lafro6978/DnsEquipmentLedger →</a>
+    </td>
+  </tr>
+</table>
+
+### Neuroevolution & Relational Architecture <sub>2026</sub>
+
+Autonomous AI training environments and normalized 3NF database engineering.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/lafro6978/dinogameneatevolution">
+        <img src="https://i.imgur.com/AS46zCi.gif" alt="Dino Game NEAT Evolution Demo" width="100%" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/lafro6978/dinogameneatevolution"><b>dinogameneatevolution</b></a>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/lafro6978/dinogameneatevolution?style=flat-square&color=21262d&labelColor=161b22&logo=github" alt="stars" />
+      <img src="https://img.shields.io/badge/release-v1.0.0_(.exe)-21262d?style=flat-square" alt="release" />
+      <br/>
+      AI-powered runner utilizing NEAT neuroevolution, <code>MVC</code> & <code>FSM</code> architecture, frame-independent physics (<code>dt_scale</code>), cached pixel-perfect collision masks, neural sensor telemetry, and headless turbo training.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/lafro6978/DnsEquipmentLedger">
+        <img src="https://i.imgur.com/piuv9Qs.png" alt="3NF ERD Database Schema" width="100%" />
+      </a>
+      <br/><br/>
+      <a href="https://github.com/lafro6978/DnsEquipmentLedger"><b>3NF Relational Schema & Data Layer</b></a>
+      &nbsp;
+      <img src="https://img.shields.io/badge/ERD-Crow's_Foot_3NF-21262d?style=flat-square" alt="3NF" />
+      <br/>
+      Normalized 6-table relational schema in MS Visio & EF Core Fluent API: unique index constraints, cascade cycle protection (<code>DeleteBehavior.Restrict</code>), eager loading, and historical movement logging.
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>Computer Vision & CNN image analysis</b> <sub>Python / OpenCV / NumPy</sub></summary>
+<br/>
+
+- **Image Convolution & CNN Pipeline** — Feature extraction, edge detection, and noise filtering using custom matrix convolutions alongside Convolutional Neural Networks (CNN), numerical methods, and data quality verification.
+</details>
+
+<details>
+<summary><b>Client telemetry & asynchronous GUI automation</b> <sub>LuaJIT / WinAPI FFI / ImGui</sub></summary>
+<br/>
+
+- **Remote Telemetry & State Automation Daemon** — Fault-tolerant finite state machine (400+ LoC) with an asynchronous task queue, debounce protection, and event sequence validation. Built a custom dark-themed `mimgui` (Dear ImGui) configuration window and real-time HUD overlay, RegExp text stream parser, bi-directional Telegram Bot API control via HTTP long-polling (`getUpdates`), and background screen capture dispatch to Discord Webhooks using native WinAPI calls (`LuaJIT FFI` / `ShellExecuteA`).
+</details>
+
+<details>
+<summary><b>Enterprise & Desktop modules</b> <sub>.NET / 1C:Enterprise / SQL</sub></summary>
+<br/>
+
+- **WPF Multi-Page Modules** — Desktop client applications utilizing `Frame`, `Page`, `NavigationService`, `ObservableCollection` data binding, and SQL backends.
+- **1C:Enterprise 8.3 Custom Configuration** — Relational metadata design featuring reference integrity, uniqueness constraints, tabular sections, and managed forms customization.
+</details>
+
+<br/>
+
+## 🧱 Stack
+
+<table>
+  <tr>
+    <td width="22%"><b>Languages</b></td>
+    <td width="78%">
+      <img src="https://img.shields.io/badge/Python_3-21262d?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C%23_12-21262d?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/C++-21262d?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/SQL-21262d?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/Lua_%2F_LuaJIT-21262d?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>.NET & Architecture</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/.NET_8.0-21262d?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 8" />
+      <img src="https://img.shields.io/badge/WPF_%2F_MVVM-21262d?style=for-the-badge&logo=windows&logoColor=white" alt="WPF MVVM" />
+      <img src="https://img.shields.io/badge/EF_Core_(Code--First)-21262d?style=for-the-badge&logo=nuget&logoColor=white" alt="EF Core" />
+      <img src="https://img.shields.io/badge/MVC_%26_FSM-21262d?style=for-the-badge" alt="MVC & FSM" />
+      <img src="https://img.shields.io/badge/Repository_%2F_Command_%2F_Observer-21262d?style=for-the-badge" alt="GoF Patterns" />
+      <img src="https://img.shields.io/badge/1C:Enterprise_8-21262d?style=for-the-badge" alt="1C" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data Science & CV</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/NEAT_NeuroEvolution-21262d?style=for-the-badge" alt="NEAT" />
+      <img src="https://img.shields.io/badge/CNN-21262d?style=for-the-badge" alt="CNN" />
+      <img src="https://img.shields.io/badge/OpenCV-21262d?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+      <img src="https://img.shields.io/badge/NumPy-21262d?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Pandas-21262d?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQLite_(3NF)-21262d?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/MS_SQL_Server-21262d?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-21262d?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Crow's_Foot_ERD-21262d?style=for-the-badge" alt="Crow's Foot ERD" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Graphics, UI & API</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/XAML_DataBinding-21262d?style=for-the-badge&logo=windows&logoColor=white" alt="XAML" />
+      <img src="https://img.shields.io/badge/ImGui-21262d?style=for-the-badge" alt="ImGui" />
+      <img src="https://img.shields.io/badge/Pygame-21262d?style=for-the-badge&logo=python&logoColor=white" alt="Pygame" />
+      <img src="https://img.shields.io/badge/Telegram_API-21262d?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API" />
+      <img src="https://img.shields.io/badge/REST_%2F_JSON-21262d?style=for-the-badge" alt="REST API" />
+      <img src="https://img.shields.io/badge/WinAPI_FFI-21262d?style=for-the-badge&logo=windows&logoColor=white" alt="WinAPI" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Cursor-21262d?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+      <img src="https://img.shields.io/badge/Claude-21262d?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+      <img src="https://img.shields.io/badge/ChatGPT-21262d?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+      <img src="https://img.shields.io/badge/Gemini-21262d?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+      <img src="https://img.shields.io/badge/GigaChat-21262d?style=for-the-badge" alt="GigaChat" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Everyday</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Visual_Studio-21262d?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+      <img src="https://img.shields.io/badge/MS_Visio-21262d?style=for-the-badge" alt="MS Visio" />
+      <img src="https://img.shields.io/badge/Linux-21262d?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+    </td>
+  </tr>
+</table>
+
+<sub>Plus SOLID principles, numerical methods, software quality assurance, and automated testing.</sub>
