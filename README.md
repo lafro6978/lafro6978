@@ -1,15 +1,19 @@
-# Hey there 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lafro6978/lafro6978/main/header.svg" alt="Header Banner" width="100%" />
+</div>
 
-**Software Engineer — .NET / C#, Python & Database Architecture**
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=750&height=32&lines=C%23+12+%26+.NET+8+Architecture+%7C+WPF+MVVM+%7C+EF+Core+Code-First;NeuroEvolution+(NEAT)+%7C+Computer+Vision+(CNN)+%7C+3NF+Database+Design;Low-Level+Automation+%7C+WinAPI+FFI+%7C+Custom+Dear+ImGui+Interfaces" alt="Typing SVG" />
+  </a>
+</div>
 
-Building desktop systems in C# 12 / .NET 8, training neuroevolution & computer vision models in Python, and designing normalized 3NF relational databases. From low-level WinAPI & Lua automation to clean MVVM interfaces and zero-configuration data layers.
-
-**Off hours:** neuroevolution, custom ImGui interfaces, and AI-assisted engineering.
-
-<p align="left">
-  <a href="#-work"><img src="https://img.shields.io/badge/Showcase-Featured_Work-21262d?style=flat-square&logo=github&logoColor=white" alt="Work" /></a>
-  <a href="#-stack"><img src="https://img.shields.io/badge/Tech-Stack_%26_Patterns-21262d?style=flat-square&logo=serverless&logoColor=white" alt="Stack" /></a>
-  <a href="https://github.com/lafro6978?tab=repositories"><img src="https://img.shields.io/badge/Explore-All_Repositories-21262d?style=flat-square&logo=git&logoColor=white" alt="Repositories" /></a>
+<p align="center">
+  <a href="#-work"><img src="https://img.shields.io/badge/❖_Featured_Work-161b22?style=for-the-badge&logoColor=white" alt="Featured Work" /></a>&nbsp;
+  <a href="#-stack"><img src="https://img.shields.io/badge/⚡_Tech_Stack-161b22?style=for-the-badge&logoColor=white" alt="Tech Stack" /></a>&nbsp;
+  <a href="https://github.com/lafro6978/DnsEquipmentLedger"><img src="https://img.shields.io/badge/🖥️_DNS_Ledger-161b22?style=for-the-badge&logoColor=white" alt="DNS Ledger" /></a>&nbsp;
+  <a href="https://github.com/lafro6978/dinogameneatevolution"><img src="https://img.shields.io/badge/🦖_NEAT_Runner-161b22?style=for-the-badge&logoColor=white" alt="NEAT Runner" /></a>&nbsp;
+  <a href="https://github.com/lafro6978?tab=repositories"><img src="https://img.shields.io/badge/📂_All_Repos-161b22?style=for-the-badge&logoColor=white" alt="All Repos" /></a>
 </p>
 
 <br/>
@@ -34,7 +38,7 @@ Building desktop systems in C# 12 / .NET 8, training neuroevolution & computer v
   </tr>
 </table>
 
-### Neuroevolution & Relational Architecture <sub>2026</sub>
+### Neuroevolution & Relational Architecture <sub>2025 — 2026</sub>
 
 Autonomous AI training environments and normalized 3NF database engineering.
 
@@ -158,7 +162,7 @@ Autonomous AI training environments and normalized 3NF database engineering.
     <td><b>Everyday</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Visual_Studio-21262d?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+      <img src="https://img.shields.io/badge/Visual_Studio_2022-21262d?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
       <img src="https://img.shields.io/badge/MS_Visio-21262d?style=for-the-badge" alt="MS Visio" />
       <img src="https://img.shields.io/badge/Linux-21262d?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
     </td>
