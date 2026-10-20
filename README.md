@@ -20,7 +20,7 @@ Building desktop systems in C# 12 / .NET 8, training neuroevolution & computer v
   <tr>
     <td width="58%" valign="middle">
       <a href="https://github.com/lafro6978/DnsEquipmentLedger">
-        <img src="https://i.imgur.com/EC24vaG.png" alt="DnsEquipmentLedger Main Window" width="100%" />
+        <img src="https://i.imgur.com/sred1n7.png" alt="DnsEquipmentLedger Main Window" width="100%" />
       </a>
     </td>
     <td width="42%" valign="middle">
