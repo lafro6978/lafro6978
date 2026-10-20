@@ -1,4 +1,3 @@
-### *Bonjour,*
 # Hey there 👋
 
 **Software Engineer — .NET / C#, Python & Database Architecture**
