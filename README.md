@@ -157,7 +157,6 @@ Unified C# 12 / .NET 8 corporate equipment tracking module and normalized 3NF da
       <img src="https://img.shields.io/badge/Claude-21262d?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
       <img src="https://img.shields.io/badge/ChatGPT-21262d?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
       <img src="https://img.shields.io/badge/Gemini-21262d?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-      <img src="https://img.shields.io/badge/GigaChat-21262d?style=for-the-badge" alt="GigaChat" />
     </td>
   </tr>
   <tr>
