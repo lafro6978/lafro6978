@@ -4,15 +4,15 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=750&height=32&lines=C%23+12+%26+.NET+8+Architecture+%7C+WPF+MVVM+%7C+EF+Core+Code-First;NeuroEvolution+(NEAT)+%7C+Computer+Vision+(CNN)+%7C+3NF+Database+Design;Low-Level+Automation+%7C+WinAPI+FFI+%7C+Custom+Dear+ImGui+Interfaces" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=750&height=32&lines=NeuroEvolution+(NEAT)+%7C+Computer+Vision+(CNN)+%7C+Autonomous+AI+Agents;C%23+12+%26+.NET+8+Architecture+%7C+WPF+MVVM+%7C+EF+Core+Code-First;3NF+Relational+Databases+%7C+WinAPI+FFI+%7C+Custom+Dear+ImGui+Interfaces" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
   <a href="#-work"><img src="https://img.shields.io/badge/❖_Featured_Work-161b22?style=for-the-badge&logoColor=white" alt="Featured Work" /></a>&nbsp;
   <a href="#-stack"><img src="https://img.shields.io/badge/⚡_Tech_Stack-161b22?style=for-the-badge&logoColor=white" alt="Tech Stack" /></a>&nbsp;
-  <a href="https://github.com/lafro6978/DnsEquipmentLedger"><img src="https://img.shields.io/badge/🖥️_DNS_Ledger-161b22?style=for-the-badge&logoColor=white" alt="DNS Ledger" /></a>&nbsp;
   <a href="https://github.com/lafro6978/dinogameneatevolution"><img src="https://img.shields.io/badge/🦖_NEAT_Runner-161b22?style=for-the-badge&logoColor=white" alt="NEAT Runner" /></a>&nbsp;
+  <a href="https://github.com/lafro6978/DnsEquipmentLedger"><img src="https://img.shields.io/badge/🖥️_DNS_Ledger-161b22?style=for-the-badge&logoColor=white" alt="DNS Ledger" /></a>&nbsp;
   <a href="https://github.com/lafro6978?tab=repositories"><img src="https://img.shields.io/badge/📂_All_Repos-161b22?style=for-the-badge&logoColor=white" alt="All Repos" /></a>
 </p>
 
@@ -23,49 +23,51 @@
 <table>
   <tr>
     <td width="58%" valign="middle">
-      <a href="https://github.com/lafro6978/DnsEquipmentLedger">
-        <img src="https://i.imgur.com/sred1n7.png" alt="DnsEquipmentLedger Main Window" width="100%" />
+      <a href="https://github.com/lafro6978/dinogameneatevolution">
+        <img src="https://i.imgur.com/AS46zCi.gif" alt="Dino Game NEAT Evolution Demo" width="100%" />
       </a>
     </td>
     <td width="42%" valign="middle">
-      <h3>DnsEquipmentLedger</h3>
-      <sub><b>2026 — present</b></sub>
+      <h3>dinogameneatevolution</h3>
+      <sub><b>2026</b></sub>
+      &nbsp;
+      <img src="https://img.shields.io/github/stars/lafro6978/dinogameneatevolution?style=flat-square&color=21262d&labelColor=161b22&logo=github" alt="stars" />
+      <img src="https://img.shields.io/badge/release-v1.0.0_(.exe)-21262d?style=flat-square" alt="release" />
       <br/><br/>
-      C# 12 & .NET 8 corporate equipment and warehouse tracking module. Built on a strict zero-code-behind WPF MVVM architecture with GoF & Enterprise patterns (<code>Repository</code>, <code>Command</code>, <code>Observer</code>), 3NF SQLite database design, and zero-config Entity Framework Core auto-migrations + data seeding on startup.
+      Autonomous AI-powered runner utilizing the NEAT neuroevolution algorithm. Engineered with strict <code>MVC</code> & <code>FSM</code> architecture, frame-independent physics (<code>dt_scale</code>), cached pixel-perfect collision masks, neural sensor telemetry, and a headless turbo training mode.
       <br/><br/>
-      <a href="https://github.com/lafro6978/DnsEquipmentLedger">github.com/lafro6978/DnsEquipmentLedger →</a>
+      <a href="https://github.com/lafro6978/dinogameneatevolution">github.com/lafro6978/dinogameneatevolution →</a>
     </td>
   </tr>
 </table>
 
-### Neuroevolution & Relational Architecture <sub>2025 — 2026</sub>
+### Enterprise Architecture & Relational Data Layer <sub>2026 — present</sub>
 
-Autonomous AI training environments and normalized 3NF database engineering.
+Unified C# 12 / .NET 8 corporate equipment tracking module and normalized 3NF database architecture.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/lafro6978/dinogameneatevolution">
-        <img src="https://i.imgur.com/AS46zCi.gif" alt="Dino Game NEAT Evolution Demo" width="100%" />
+      <a href="https://github.com/lafro6978/DnsEquipmentLedger">
+        <img src="https://raw.githubusercontent.com/lafro6978/lafro6978/main/dns_app.svg?v=1" alt="DnsEquipmentLedger Desktop Module" width="100%" />
       </a>
       <br/><br/>
-      <a href="https://github.com/lafro6978/dinogameneatevolution"><b>dinogameneatevolution</b></a>
+      <a href="https://github.com/lafro6978/DnsEquipmentLedger"><b>DnsEquipmentLedger · Desktop Client</b></a>
       &nbsp;
-      <img src="https://img.shields.io/github/stars/lafro6978/dinogameneatevolution?style=flat-square&color=21262d&labelColor=161b22&logo=github" alt="stars" />
-      <img src="https://img.shields.io/badge/release-v1.0.0_(.exe)-21262d?style=flat-square" alt="release" />
+      <img src="https://img.shields.io/badge/.NET_8-WPF_MVVM-21262d?style=flat-square" alt="WPF MVVM" />
       <br/>
-      AI-powered runner utilizing NEAT neuroevolution, <code>MVC</code> & <code>FSM</code> architecture, frame-independent physics (<code>dt_scale</code>), cached pixel-perfect collision masks, neural sensor telemetry, and headless turbo training.
+      Corporate equipment and warehouse tracking application built on a strict zero-code-behind MVVM architecture with GoF & Enterprise patterns (<code>Repository</code>, <code>Command</code>, <code>Observer</code>) and reactive UI filtering.
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/lafro6978/DnsEquipmentLedger">
-        <img src="https://i.imgur.com/piuv9Qs.png" alt="3NF ERD Database Schema" width="100%" />
+        <img src="https://raw.githubusercontent.com/lafro6978/lafro6978/main/dns_db.svg?v=1" alt="3NF Relational Database Schema" width="100%" />
       </a>
       <br/><br/>
-      <a href="https://github.com/lafro6978/DnsEquipmentLedger"><b>3NF Relational Schema & Data Layer</b></a>
+      <a href="https://github.com/lafro6978/DnsEquipmentLedger"><b>DnsEquipmentLedger · 3NF Data Layer</b></a>
       &nbsp;
       <img src="https://img.shields.io/badge/ERD-Crow's_Foot_3NF-21262d?style=flat-square" alt="3NF" />
       <br/>
-      Normalized 6-table relational schema in MS Visio & EF Core Fluent API: unique index constraints, cascade cycle protection (<code>DeleteBehavior.Restrict</code>), eager loading, and historical movement logging.
+      Normalized 6-table relational schema in MS Visio & EF Core Code-First: automatic startup migrations (<code>Database.Migrate()</code>), data seeding, unique index constraints, and cascade cycle protection (<code>DeleteBehavior.Restrict</code>).
     </td>
   </tr>
 </table>
